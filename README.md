@@ -9,6 +9,8 @@ Prática 02 - Loading
 
 ![alt text](https://github.com/danydiasd/CSS30/blob/master/loading/loading.gif?raw=true)
 
+Prática 03 - Texto deslizante na div 
+![alt text](https://github.com/danydiasd/CSS30/blob/master/texto_deslizante/css_texto.gif?raw=true)
 
 
 # CSS30
